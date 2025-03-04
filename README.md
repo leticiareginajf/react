@@ -1,4 +1,12 @@
-# React - Projetos Realizados
+# React - Projetos Realizados:
 
-## Componentes
-## Projeto - Secret Word
+### -> Componentes
+
+### -> Projeto - Secret Word
+       Gamer
+       GameOver
+       StartScreen
+       Data (words)
+
+
+### Continuação ...
